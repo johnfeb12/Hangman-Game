@@ -1,0 +1,66 @@
+	
+	body{
+		background-color: grey;
+	}
+	
+
+
+	#jumbo{
+
+	
+	background-image: url(https://img.cinemablend.com/filter:scale/quill/2/6/1/6/a/5/2616a5e2fc42e321bda71fa4ac0886c544558029.jpg?mw=600);
+	
+
+
+	}
+
+
+
+
+	.scar{
+		text-align: center; 
+		transform: rotate(-20deg); 
+		font-size: 70px; 
+		margin-top: -20px; 
+		color: green;
+		width: 500px;
+		word-wrap: break-word;
+	
+	}
+
+	#hang{
+		text-align: center; 
+		z-index: 0;
+		font-size: 70px;
+		color:white;
+		font-weight: bold;
+	}
+
+
+
+	body { 
+    font-family:sans-serif; 
+    font-weight:bold; 
+    font-size:16pt;
+}
+
+   	.hangman{
+   		border: 2px solid black;
+   		padding:10px;
+   	}
+
+   	.gamebox{
+   		border: 2px solid black;
+   		padding-bottom: 100%;
+
+   	}
+
+   	.picture2{
+   		width: 100%;
+   	}
+
+   	.picture1{
+
+   		width: 80%;
+
+   	}
